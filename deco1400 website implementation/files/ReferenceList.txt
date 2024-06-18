@@ -1,0 +1,44 @@
+
+References for Images Used:
+
+penguin. (2024). Lone Wolf (G. Hurwitz, Ed.) [Review of Lone Wolf]. https://www.penguin.com.au/books/lone-wolf-9781405953382
+
+Getty Images. (2021). (Y. Saulevich, Ed.). https://www.istockphoto.com/photo/senior-male-author-sitting-at-table-with-book-and-holds-hands-under-head-gm1345371869-423467915
+
+Writer's Digest. (2021). 25th Annual Short Short Story Competition (T. Johnson, Ed.). https://www.writersdigest.com/writers-digest-competitions/short-short-story-competition
+
+Upper Hutt Libraries. (2024). Upper Hutt Libraries’ annual Short Story Competition. https://www.upperhuttlibrary.co.nz/News/Short-Story-Competition-2024
+
+‌Murrumbidgee Council. (2022). Murrumbidgee Short Story Competition. https://www.murrumbidgee.nsw.gov.au/cp_themes/default/event-detail.asp?guid=0C1CC4A0-D51A-4E97-8D6E-0854422725FF
+
+Amazon. (2021). A Conjuring of Ravens: A Magepunk Progression Fantasy (A Practical Guide to Sorcery Book 1) (A. Ellis, Ed.) [Review of A Conjuring of Ravens: A Magepunk Progression Fantasy (A Practical Guide to Sorcery Book 1)]. https://www.amazon.com.au/Conjuring-Ravens-Magepunk-Progression-Practical-ebook/dp/B08V9G5WB3
+
+‌mediamodifier. (n.d.). Horror Book Cover Template [Review of Horror Book Cover Template]. https://mediamodifier.com/design-template/horror-book-cover-template/280
+
+Freepik. (n.d.). Row of old books on grey shelf. Horizontal background banner (daboost, Ed.) [Review of Row of old books on grey shelf. Horizontal background banner]. https://www.freepik.com/premium-photo/row-old-books-grey-shelf-horizontal-background-banner_20691956.htm
+
+‌Pintrest. (n.d.). Booke White Transparent, Book, Book Clipart, Quill PNG Image For Free Download (pngtree, Ed.) [Review of Booke White Transparent, Book, Book Clipart, Quill PNG Image For Free Download]. https://www.pinterest.com.au/pin/335658978474223389/
+
+‌Coping Cat Parents. (n.d.). Books_for_Parents_and_Kids [Review of Books_for_Parents_and_Kids]. https://www.copingcatparents.com/Books_for_Parents_and_Kids
+
+‌Wallpapers.com. (n.d.). White Color Background [Review of White Color Background]. https://wallpapers.com/white-color-background
+
+‌Harper Collion's Publishers. (2011). The Lotus Eaters (T. Soli, Ed.) [Review of The Lotus Eaters]. https://www.harpercollins.com.au/9780007364206/the-lotus-eaters/
+
+‌ikaruna. (n.d.). Binary Dust [Review of Binary Dust]. https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikaruna.eu%2Fart%2Fbinary-dust%2F&psig=AOvVaw0Lo_u6kqefiRNRSYOSWdpQ&ust=1716444119219000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLi4zuHKoIYDFQAAAAAdAAAAABAE
+
+‌adobe stock. (n.d.). Instagram, facebook, messenger and twitter icons. Round social media logo set. Isolated instagram, facebook, messenger and twitter logotype in circle. Editorial vector (Cali6ro, Ed.) [Review of Instagram, facebook, messenger and twitter icons. Round social media logo set. Isolated instagram, facebook, messenger and twitter logotype in circle. Editorial vector]. https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Finstagram-facebook-messenger-and-twitter-icons-round-social-media-logo-set-isolated-instagram-facebook-messenger-and-twitter-logotype-in-circle-editorial-vector%2F576148489&psig=AOvVaw10pHJq0wMtaFSMoSUGDZaO&ust=1716444194408000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCND08oXLoIYDFQAAAAAdAAAAABAE
+
+‌W3Schools. (n.d.). How To Create an Accordion. Www.w3schools.com. https://www.w3schools.com/howto/howto_js_accordion.asp
+
+Obaseki, N. (2020, December 29). localStorage in JavaScript: A complete guide. LogRocket Blog. https://blog.logrocket.com/localstorage-javascript-complete-guide/
+
+‌Google Maps. (n.d.). Google Maps. Retrieved May 23, 2024, from https://www.google.com/maps/@-26.6365174
+
+Bro Code. (2023, December 26). Build a JavaScript IMAGE SLIDER in 15 minutes!. YouTube. https://www.youtube.com/watch?v=749ta0nvj8s
+
+I acknowledge the use of ChatGPT (https://chat.openai.com/) to provide me with blocks of texts i used in the website.
+Note, this does not include any code (html, css, javascript) and was purely limited producing names, short stories and messages to the user.
+For example, AI was used to create short stories, competition names and introduction messages.
+The prompts used and the response from ChatGPT are included in the following file:
+files\deco1400 AI prompts.pdf

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LogTome</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
+<body class="login-background">
+    <nav class="nav">
+        <ul>
+            <li><a href="index.html">LogTome</a></li>
+            <li><a href="AboutUs.html">About Us</a></li>
+            <li><a href="Stories.html">Stories</a></li>
+            <li><a href="PublishStory.html">Publish Story</a></li>
+            <li><a href="HowToWrite.html">How To Write</a></li>
+            <li><a href="Community.html">Community</a></li>
+            <li class="active"><a href="login.html">Login</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <form class="login-container">
+            
+            <label>User Name:</label>
+            <input type="text" id="Uname" placeholder="Username">
+
+            <label>Password:</label>
+            <input type="Password" id="Pass" placeholder="Password">
+
+            <input type="checkbox" id="remember">
+            <label>Remember me</label>
+
+            <button id="logIn-Button" href="index.html">Log In Here</button>
+     
+            <p>Forgot <a href="#" id="blue-link">Password</a></p>
+            <p>Not Registered? <a href="#" id="blue-link">Create An Account Here</a></p>
+
+            <section class="external-link-container">
+                <button id="Google" type="button">Login With Google</button>
+                <button id="LinkedIn" type="button">Login With LinkedIn</button>
+            </section>
+
+        </form>
+    </main>
+
+    <footer class="footer">
+        <p>LogTome &copy; 2024</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

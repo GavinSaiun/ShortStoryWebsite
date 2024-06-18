@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LogTome</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="nav">
+        <ul>
+            <li><a href="index.html">LogTome</a></li>
+            <li><a href="AboutUs.html">About Us</a></li>
+            <li><a href="Stories.html">Stories</a></li>
+            <li class="active"><a href="PublishStory.html">Publish Story</a></li>
+            <li><a href="HowToWrite.html">How To Write</a></li>
+            <li><a href="Community.html">Community</a></li>
+            <li><a href="login.html">Login</a></li>
+        </ul>
+    </nav>
+    
+    <header class="Grey-container">
+        <h1>Post your Story</h1>
+    </header>
+
+    <main>
+        <form class="form-container" id="storyForm">
+
+            <fieldset>
+                <label>Title:</label>
+                <input type="text" name="title" id="titleInput">
+            </fieldset>
+
+            <fieldset>
+                <label>Email: <span id="emailError" class="error-message"></span></label>
+                <input type="text" name="email" id="email">
+            </fieldset>
+
+            <fieldset>
+                <label>Author:</label>
+                <input type="text" name="author" id="author">
+            </fieldset>
+
+            <fieldset>
+                <label>Genre:</label>
+                <select name="genre" id="genre">
+                    <option value="Fantasy">Fantasy</option>
+                    <option value="Romance">Romance</option>
+                    <option value="Sci-Fi">Sci-Fi</option>
+                    <option value="Horror">Horror</option> 
+                    <option value="Action">Action</option> 
+                </select>
+            </fieldset>
+
+            <article class="text-container">
+                <label for="storyInput">Short Story:</label>
+                <textarea id="storyInput" name="message" rows="15" cols="140"></textarea>
+                <p id="wordCount">0 Words</p>
+            </article>
+
+            <section class="button-container">
+                <button type="submit"><span>Submit</span></button>
+                <button type="button"><span>Upload File</span></button>
+                <button type="button" id="saveDraftButton"><span>Save Draft</button>
+                <button type="button" id="loadDraftButton"><span>Load Draft</button>
+            </section>
+
+        </form>
+    </main>
+    <footer class="footer">
+        <p>LogTome &copy; 2024</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
